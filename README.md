@@ -1,7 +1,7 @@
 # HTML_CSS_task_6
 ## Topic: Position Property
 
-[Preview Page <img src="images/Logo-red.svg" width="15">](https://zura-papiashvili.github.io/HTML_CSS_task_4/)
+[Preview Page <img src="images/Logo-red.svg" width="45">](https://zura-papiashvili.github.io/HTML_CSS_task_6/)
 
 
 #### Tree Structure:
@@ -34,7 +34,7 @@
 }
 ```
 
-###Source:[www.w3schools.com](https://www.w3schools.com/cssref/pr_class_position.asp)
+### Source:[www.w3schools.com](https://www.w3schools.com/cssref/pr_class_position.asp)
 
 
 
